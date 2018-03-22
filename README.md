@@ -75,5 +75,5 @@ Add this extension file on your project ViewController.
 
 #### Step 03
 
-Now You can simply use showLoadingView() to show Gif image and hidesLoadingView() to hide Gif image.
+Now You can simply use ``showLoadingView()`` to show Gif image and ``hidesLoadingView()`` to hide Gif image.
 
